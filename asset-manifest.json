@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Cybernetz/static/css/main.d7f8c584.css",
-    "main.js": "/Cybernetz/static/js/main.32e45f16.js",
-    "static/js/787.95489147.chunk.js": "/Cybernetz/static/js/787.95489147.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Cybernetz/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/Cybernetz/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Cybernetz/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Cybernetz/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Cybernetz/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/Cybernetz/index.html",
-    "main.d7f8c584.css.map": "/Cybernetz/static/css/main.d7f8c584.css.map",
-    "main.32e45f16.js.map": "/Cybernetz/static/js/main.32e45f16.js.map",
-    "787.95489147.chunk.js.map": "/Cybernetz/static/js/787.95489147.chunk.js.map"
+    "main.css": "/DecoXD/cybernetz/static/css/main.50e43936.css",
+    "main.js": "/DecoXD/cybernetz/static/js/main.50dfafa3.js",
+    "static/js/787.95489147.chunk.js": "/DecoXD/cybernetz/static/js/787.95489147.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/DecoXD/cybernetz/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/DecoXD/cybernetz/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/DecoXD/cybernetz/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/DecoXD/cybernetz/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/DecoXD/cybernetz/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/DecoXD/cybernetz/index.html",
+    "main.50e43936.css.map": "/DecoXD/cybernetz/static/css/main.50e43936.css.map",
+    "main.50dfafa3.js.map": "/DecoXD/cybernetz/static/js/main.50dfafa3.js.map",
+    "787.95489147.chunk.js.map": "/DecoXD/cybernetz/static/js/787.95489147.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7f8c584.css",
-    "static/js/main.32e45f16.js"
+    "static/css/main.50e43936.css",
+    "static/js/main.50dfafa3.js"
   ]
 }
